@@ -1,8 +1,11 @@
 ## AWS VPC Peering — Student Project Report
 
 **Name:** Sushant Balunda
+
 **Batch:** B.Tech CSE (Core), JECRC University
+
 **Project Title:** AWS VPC Peering (Project 01 / Oct 2026)
+
 **Region:** Asia Pacific (Mumbai) — `ap-south-1`
 
 ### 1. Architecture & Resource Inventory
